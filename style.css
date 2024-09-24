@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    display: flex;
+}
+
+
+
+.logo{
+    height: 690px;
+    width: 200px;
+    background-color: rgb(47, 47, 47);
+    border: 1px solid black;
+    
+    
+    
+
+
+}.hams{
+    color:azure;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    
+    
+}.you{
+    text-align: center;
+    
+    
+}.ham{ color:azure;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: inline;
+
+
+}.home{
+    color: aliceblue;
+    display: flex;
+    
+}.ome{
+    padding-top: 12px;
+    padding-left: 20px;
+}.explore{
+    padding-top: 12px;
+    padding-left: 10px;
+    
+    
+}.explo{
+    color: aliceblue;
+    display: flex;
+    
+}.xplo{
+    padding-top: 12px;
+    padding-left: 20px;
+}.shorts{
+    color: aliceblue;
+    display: flex;
+}.ort{
+    padding-top: 12px;
+    padding-left: 10px;
+    
+
+}.orts{
+    padding-left: 20px;
+    padding-top: 12px;
+}.search{
+    height: 30px;
+    width: 375px;
+    border: 1px solid black;
+    text-align: center;
+    background-color:rgb(50, 50, 50);
+    display: flex;
+    margin-top: 20px;
+    margin-left: 45px;
+    
+    
+
+
+}.button{
+
+    text-align: right;
+}.text{
+    color: rgb(120, 117, 117);
+    margin-top: 4px;
+}
+.thumbnail-1{
+    height: 575px;
+    width: 400px;
+    border: 1px solid white;
+    margin-top: 50px;
+
+
+}.subs{ color: aliceblue;
+    display: flex;
+    
+}.sub{  padding-top: 12px;
+    padding-left: 10px;
+    
+}.subscription{padding-left: 20px;
+    padding-top: 12px;
+
+}.line{
+    margin-top: 15px;
+    color: rgb(50, 50, 49);
+    background-color: rgb(48, 48, 48);
+}.library{
+    color: aliceblue;
+    display: flex;
+}.libs{ padding-top: 12px;
+    padding-left: 10px;
+    
+
+}.lib{padding-left: 20px;
+    padding-top: 12px;
+
+
+}
